@@ -1,0 +1,10 @@
+LEWIS HAMILTON adli pilot bu yarista 80350 milisaniye sureyle 1.siradadir
+DANIEL RICCIARDO adli pilot bu yarista 80528 milisaniye sureyle 2.siradadir
+SERGIO PEREZ adli pilot bu yarista 80860 milisaniye sureyle 3.siradadir
+CARLOS SAINZ adli pilot bu yarista 81416 milisaniye sureyle 4.siradadir
+MAX VERSTAPPEN adli pilot bu yarista 81447 milisaniye sureyle 5.siradadir
+NICO HULKENBERG adli pilot bu yarista 83360 milisaniye sureyle 6.siradadir
+NICO ROSBERG adli pilot bu yarista 84207 milisaniye sureyle 7.siradadir
+FELIPE MASSA adli pilot bu yarista 85954 milisaniye sureyle 8.siradadir
+SEBASTIAN VETTEL adli pilot bu yarista 87464 milisaniye sureyle 9.siradadir
+KIMI RAIKKONEN adli pilot bu yarista 88119 milisaniye sureyle 10.siradadir
